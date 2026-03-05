@@ -1,0 +1,9 @@
+flask
+flask-cors
+langchain
+chromadb
+sentence-transformers
+transformers
+torch
+accelerate
+pypdf
